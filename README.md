@@ -169,7 +169,6 @@ speed > 0 ?
 
 let time =
 new Date().toLocaleTimeString();
-
 let row =
 `<tr>
 <td>${time}</td>
